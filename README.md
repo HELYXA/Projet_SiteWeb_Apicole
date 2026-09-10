@@ -1,4 +1,4 @@
-# 🍯 Rucher La Prévende — Site vitrine
+# 🍯 Rucher La Prévende - Site vitrine
 
 > Site web vitrine pour une miellerie familiale artisanale, réalisé en HTML/CSS pur.
 
@@ -10,7 +10,7 @@
 
 | Page | Contenu |
 |---|---|
-| **Accueil** (`index.html`) | Hero, histoire de la famille, origines de l'apiculture, aperçu produits |
+| **Accueil** (`index.html`) | Histoire de la famille, origines de l'apiculture, aperçu produits |
 | **Produits** (`produits.html`) | Catalogue complet : miel artisanal, crème, savon, bonbons, coffret découverte, bougies en cire d'abeille |
 | **Contact** (`contact.html`) | Coordonnées / prise de contact |
 
@@ -33,7 +33,7 @@
 
 ## 🚀 Voir le site
 
-Clone le repo et ouvre `index.html` dans un navigateur — aucune dépendance, aucun serveur nécessaire.
+Clone le repo et ouvre `index.html` dans un navigateur - aucune dépendance, aucun serveur nécessaire.
 
 ```bash
 git clone https://github.com/HELYXA/Projet_Site_Web.git
