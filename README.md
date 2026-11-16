@@ -43,4 +43,4 @@ open index.html
 
 ---
 
-*Projet personnel — développement web front-end.*
+*Projet personnel - développement web front-end.*
